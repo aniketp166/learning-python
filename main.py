@@ -1,1 +1,5 @@
 print("Day 1")
+print(1+2)
+print('1+2')
+print("Hello", "World", 12,13)
+print(1>2)
